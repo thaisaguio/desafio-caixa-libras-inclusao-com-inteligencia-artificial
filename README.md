@@ -12,7 +12,7 @@ Projeto para o Desafio CAIXA - Criando Impacto Social com IA, do bootcamp DIO "C
 <p align="center">
 <img 
     src="./assets/capa_podcast.png"
-    width="400"
+    width="600"
 />
 </p>
 
@@ -35,147 +35,26 @@ Nota:  Limitação no tamanho de envio de arquivo do GitHub forçou menor qualid
 
 ## 🧠 Sobre o projeto
 
+📖 Todos os detalhes no e-book: [Clique Aqui](https://github.com/thaisaguio/desafio-caixa-libras-inclusao-com-inteligencia-artificial/blob/main/output/e-book-caixa-libras-inclusao-com-inteligencia-artificial.pdf)
+
 | Seção | Conteúdo |
 | --- | --- |
-| Introdução | No Brasil, cerca de 10,7 milhões de pessoas possuem algum grau de
-deficiência auditiva, segundo o IBGE. Apesar da relevância desse grupo,
-muitas instituições ainda não oferecem serviços adequados para atender às
-suas necessidades específicas. Em um contexto onde a inclusão social é uma
-prioridade crescente, a CAIXA Econômica Federal busca liderar essa
-transformação ao implementar soluções acessíveis e inovadoras.
-A IA generativa surge como uma ferramenta poderosa para preencher
-lacunas de comunicação e promover autonomia. Diferentemente de
-soluções tradicionais, que frequentemente se limitam a legendas ou
-interfaces textuais, a IA generativa permite a criação de experiências
-personalizadas, como traduções automáticas para Libras (Língua Brasileira
-de Sinais). É importante ressaltar que Libras é a primeira língua da maior
-parte da população surda no Brasil, enquanto o Português é
-frequentemente aprendido como segunda língua. Por isso, o uso de Libras
-nas soluções propostas é essencial para garantir que a comunicação seja
-efetiva e inclusiva, da mesma forma que os intérpretes de Libras são
-fundamentais nesse processo.
-A solução apresentada pela CAIXA neste e-book busca fornecer ferramentas
-acessíveis que democratizem o acesso da população surda brasileira aos
-serviços financeiros, promovendo igualdade e impacto social.
-As soluções aqui apresentadas não pretendem substituir os intérpretes humanos de Libras.
-Intérpretes desempenham um papel fundamental em interações complexas que requerem nuances
-culturais e emocionais, algo que as máquinas ainda não conseguem reproduzir completamente. O
-objetivo é complementar o trabalho desses profissionais, oferecendo suporte em situações onde o
-acesso a um intérprete pode ser limitado, como atendimentos remotos ou fora do horário comercial,
-garantindo que o serviço seja inclusivo e contínuo.|
-| Contexto e Problematização | A população surda enfrenta diversos desafios ao
-acessar serviços bancários no Brasil:
-Falta de Acessibilidade: A maioria das agências
-bancárias não conta com ferramentas acessíveis
-em Libras (Língua Brasileira de Sinais).
-Dificuldades de Comunicação: Barreiras
-linguísticas frequentemente resultam em uma
-experiência de atendimento inadequada e
-frustrante.
-Exclusão Digital: Muitos serviços online não
-possuem funcionalidades que atendam às
-necessidades dessa população.
-A ausência de soluções tecnológicas eficazes impede
-uma atendimento pleno às necessidades dessa
-parcela significativa da população brasileira.|
+| Introdução | No Brasil, cerca de 10,7 milhões de pessoas possuem algum grau de deficiência auditiva, segundo o IBGE. Apesar da relevância desse grupo, muitas instituições ainda não oferecem serviços adequados para atender às suas necessidades específicas. Em um contexto onde a inclusão social é uma prioridade crescente, a CAIXA Econômica Federal pode liderar essa transformação ao implementar soluções acessíveis e inovadoras. A IA generativa surge como uma ferramenta poderosa para preencher lacunas de comunicação e promover autonomia. Diferentemente de soluções tradicionais, que frequentemente se limitam a legendas ou interfaces textuais, a IA generativa permite a criação de experiências personalizadas, como traduções automáticas para Libras (Língua Brasileira de Sinais). É importante ressaltar que Libras é a primeira língua da maior parte da população surda no Brasil, enquanto o Português é frequentemente aprendido como segunda língua. Por isso, o uso de Libras nas soluções propostas é essencial para garantir que a comunicação seja efetiva e inclusiva, da mesma forma que os intérpretes de Libras são fundamentais nesse processo. Este projeto busca fornecer ferramentas acessíveis que democratizem o acesso da população surda brasileira aos serviços financeiros da CAIXA, promovendo igualdade e impacto social.|
+| Contexto e problematização | A população surda enfrenta diversos desafios ao acessar serviços bancários no Brasil:
+    • Falta de Acessibilidade: A maioria das agências bancárias não conta com ferramentas acessíveis em Libras (Língua Brasileira de Sinais).
+    • Dificuldades de Comunicação: Barreiras linguísticas frequentemente resultam em uma experiência de atendimento inadequada e frustrante.
+    • Exclusão Digital: Muitos serviços online não possuem funcionalidades que atendam às necessidades dessa população.
+A ausência de soluções tecnológicas eficazes impede uma atendimento pleno às necessidades dessa parcela significativa da população brasileira.|
 | Objetivos da solução | Objetivo Geral:
-Implementar soluções acessíveis baseadas em IA
-para aprimorar o atendimento da CAIXA à
-população surda, garantindo igualdade no acesso
-a serviços financeiros.
+    • Implementar soluções acessíveis baseadas em IA para aprimorar o atendimento da CAIXA à população surda, garantindo igualdade no acesso a serviços financeiros.
 Objetivos Específicos:
-Desenvolver ferramentas digitais que traduzam
-em tempo real entre Português e Libras.
-Oferecer suporte inclusivo em canais presenciais e
-digitais.
-Promover capacitação interna com o uso de
-tecnologias acessíveis para os funcionários da
-CAIXA.
-Integrar soluções de IA generativa para
-personalizar experiências de atendimento.|
-| Solução proposta com o uso de IA | A solução integra IA generativa e outros modelos de
-IA para criar ferramentas acessíveis e inclusivas para a
-população surda:
-Assistente Virtual Inclusivo:
-Tradução Automática em Libras: Utiliza IA generativa para
-converter texto e áudio em vídeos com avatares 3D que
-traduzem o conteúdo para Libras. Plataformas como
-DeepMotion ou OpenAI Codex podem ser integradas. Essa
-abordagem é mais relevante do que apenas legendas em
-texto, pois a maior parte da população surda tem Libras como
-sua primeira língua, enquanto o Português é aprendido como
-segunda língua. Isso garante uma comunicação mais direta e
-compreensível.
-Resposta Personalizada: Um chatbot alimentado por IA (ex.:
-ChatGPT ou Bard) treinado para entender as necessidades de
-usuários surdos e adaptar respostas de maneira acessível.
-Diferentemente de chatbots convencionais, este será
-configurado para oferecer orientações com linguagem
-simplificada e opções visuais que se alinham às preferências
-de comunicação dessa população. 
-Atendimento Presencial Adaptado:
-Tradução em Tempo Real: Tablets ou dispositivos instalados
-em agências bancárias com ferramentas como o Google
-Translate e intérpretes virtuais em Libras. Isso supera a
-abordagem tradicional de escrita, já que muitos surdos têm
-dificuldades com o Português escrito e preferem interações
-em Libras para maior clareza.
-Reconhecimento Facial e Gestual: Modelos de IA como
-MediaPipe ou Vision AI para detectar gestos e expressões
-faciais, interpretando sinais em Libras e facilitando a
-comunicação bidirecional. Essa solução vai além dos métodos
-de escrita e leitura, oferecendo interatividade em tempo real
-e respeitando a dinâmica natural da comunicação em Libras.
-Inclusão em Canais Digitais:
-Interface Acessível no App da CAIXA: Implementação de
-assistentes em Libras integrados ao aplicativo oficial,
-possibilitando a navegação autônoma de usuários surdos.
-Diferente de aplicativos que dependem exclusivamente de
-texto, essa interface é adaptada para a realidade linguística e
-cultural da população surda brasileira.
-Tutoriais em Libras: A IA generativa cria vídeos tutoriais em
-Libras de forma automatizada, permitindo que usuários
-entendam claramente como utilizar serviços bancários. Isso é
-fundamental, pois muitos surdos têm maior familiaridade com
-Libras do que com textos em Português, garantindo que as
-informações sejam recebidas de forma clara e compreensível.
-Capacitação Interna:
-Treinamento com IA: Ferramentas baseadas em IA, como
-Duolingo ou plataformas similares, para treinar funcionários
-em Libras de forma gamificada e personalizada. Essa
-abordagem permite um aprendizado mais envolvente e
-prático, superando métodos tradicionais de ensino que muitas
-vezes são teóricos e pouco interativos.
-Feedback Automatizado: Utiliza modelos de Machine Learning
-para avaliar a qualidade do atendimento em Libras e sugerir
-melhorias. Isso permite identificar gaps na comunicação e
-implementar ações corretivas com base em dados,
-diferentemente de abordagens que dependem
-exclusivamente de avaliações humanas.|
-| Impactos da solução | Acessibilidade Garantida: Milhões de brasileiros surdos
-passam a ter acesso facilitado a serviços bancários
-essenciais.
-Inclusão Social: Redução das barreiras de comunicação
-e aumento da autonomia na interação com serviços
-financeiros.
-Fortalecimento da Cidadania: Ampliação do acesso da
-população surda a produtos financeiros, contribuindo
-para sua participação plena na economia.
-Reconhecimento da CAIXA como Instituição Inclusiva:
-Fortalece a imagem da CAIXA como uma instituição
-comprometida com a diversidade e a inclusão.
-Capacitação dos Funcionários: Promove maior empatia
-e competência na relação com clientes surdos. |
-| Conclusão | Com a implementação dessa solução, a CAIXA Econômica
-Federal tem a oportunidade de se tornar pioneira em
-acessibilidade bancária no Brasil.
-O uso de IA generativa e outras tecnologias emergentes não
-apenas facilita a inclusão da população surda, mas também
-reforça seu papel como agente transformador na promoção
-da igualdade social.
-Essa iniciativa cria um impacto duradouro, garantindo que
-todos os brasileiros tenham acesso pleno e justo a serviços
-financeiros.|
+    • Desenvolver ferramentas digitais que traduzam em tempo real entre Português e Libras.
+    • Oferecer suporte inclusivo em canais presenciais e digitais.
+    • Promover capacitação interna com o uso de tecnologias acessíveis para os funcionários da CAIXA.
+    • Integrar soluções de IA generativa para personalizar experiências de atendimento.|
+| Solução proposta com o uso de IA | Assistente Virtual Inclusivo (Tradução Automática em Libras e Reposta Personalizada), Atendimento Presencial Adaptado (Tradução em Tempo Real e Reconhecimento Facial e Gestual), Inclusão em Canais Digitais (Interface Acessível no App da CAIXA e Tutoriais em Libras), Capacitação Interna (Treinamento com IA e Feedback Automatizado).|
+| Impactos da solução | Acessibilidade Garantida, Inclusão Social, Fortalecimento da Cidadania, Reconhecimento da CAIXA como Instituição Inclusiva, Capacitação dos Funcionários. |
+| Conclusão | Com a implementação deste projeto, a CAIXA Econômica Federal tem a oportunidade de se tornar pioneira em acessibilidade bancária no Brasil. O uso de IA generativa e outras tecnologias emergentes não apenas facilita a inclusão da população surda, mas também reforça seu papel como agente transformador na promoção da igualdade social. Esta iniciativa cria um impacto duradouro, garantindo que todos os brasileiros tenham acesso pleno e justo a serviços financeiros. |
 
 ## 🧐 Processo de Criação
 
