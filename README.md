@@ -1,5 +1,5 @@
 # Projeto IA Generativa
-<h1 align="center"> Desafio CAIXA - Criando Impacto Social com IA <h1 align="center">
+<p align="center"> Desafio CAIXA - Criando Impacto Social com IA </p>
 ## CAIXA Libras: Inclusão com Inteligência Artificial
 
  
