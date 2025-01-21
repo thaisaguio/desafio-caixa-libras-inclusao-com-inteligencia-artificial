@@ -1,8 +1,7 @@
 # Projeto IA Generativa
 <h1 align="center"> Desafio CAIXA - Criando Impacto Social com IA <h1 align="center">
+## CAIXA Libras: Inclusão com Inteligência Artificial
 
-<h1 align="center"> CAIXA Libras: Inclusão com Inteligência Artificial <h1 align="center">
-<p align="center"> </p>
  
  > ℹ️ **NOTA**: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
 
