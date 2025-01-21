@@ -52,7 +52,8 @@ Nota:  Limitação no tamanho de envio de arquivo do GitHub forçou menor qualid
 - Leonard.AI: Imagens para o e-book.
 - CANVA: Diagramação e confecção do e-book e da imagem de capa do podcast.
 - ElevenLabs: Conversão text-to-speech do roteiro do podcast para o áudio do podcast (Voz: Matilda | Modelo: Eleven Turbo 2.5 | Stability: 45% |  Similarity: 65%).
-- Capcut: Tratamento do áudio do podcast, efeitos e trilha.
+- Capcut: Tratamento do áudio do podcast, efeitos e trilha.  
+  
   
 - ChatGPT:
   
