@@ -3,6 +3,7 @@
 
 <h1 align="center"> CAIXA Libras: Inclusão com Inteligência Artificial <h1 align="center">
 
+
  > ℹ️ **NOTA**: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
 
 ## 📒 Descrição
