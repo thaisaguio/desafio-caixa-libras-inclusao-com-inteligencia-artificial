@@ -33,9 +33,9 @@ Nota:  Limitação no tamanho de envio de arquivo do GitHub forçou menor qualid
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
-## 🧠 Sobre o projeto
+## 🧠 Sobre o projeto  
 
-📖 Todos os detalhes no e-book: [Clique Aqui](https://github.com/thaisaguio/desafio-caixa-libras-inclusao-com-inteligencia-artificial/blob/main/output/e-book-caixa-libras-inclusao-com-inteligencia-artificial.pdf)
+📖 Todos os detalhes no e-book: [Clique Aqui](https://github.com/thaisaguio/desafio-caixa-libras-inclusao-com-inteligencia-artificial/blob/main/output/e-book-caixa-libras-inclusao-com-inteligencia-artificial.pdf)  
 
 | Seção | Conteúdo |
 | --- | --- |
