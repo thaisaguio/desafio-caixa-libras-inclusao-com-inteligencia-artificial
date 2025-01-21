@@ -28,7 +28,7 @@ Nota:  Limitação no tamanho de envio de arquivo do GitHub forçou menor qualid
 ## 🤖 Tecnologias Utilizadas
 
 - [ChatGPT](https://chatgpt.com/)
-- [Leonard.AI](https://leonardo.ai/)
+- [Leonardo.AI](https://leonardo.ai/)
 - [CANVA](https://www.canva.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
@@ -49,7 +49,7 @@ Nota:  Limitação no tamanho de envio de arquivo do GitHub forçou menor qualid
 ## 🧐 Processo de Criação
 
 - ChatGPT: Conteúdo do e-book, título/subtítulo do projeto, roteiro do podcast (todos foram gerados no mesmo chat).
-- Leonard.AI: Imagens para o e-book.
+- Leonardo.AI: Imagens para o e-book.
 - CANVA: Diagramação e confecção do e-book e da imagem de capa do podcast.
 - ElevenLabs: Conversão text-to-speech do roteiro do podcast para o áudio do podcast (Voz: Matilda | Modelo: Eleven Turbo 2.5 | Stability: 45% |  Similarity: 65%).
 - Capcut: Tratamento do áudio do podcast, efeitos e trilha.  
@@ -67,7 +67,7 @@ Nota:  Limitação no tamanho de envio de arquivo do GitHub forçou menor qualid
 | Prompt para ser usado no Leonard.AI | "Forneça um prompt, em inglês, que eu poderia usar para gerar uma imagem da capa desse projeto em uma ferramenta de IA generativa de imagem como o Leonard.ai.". Output: "An inclusive and innovative design showcasing modern AI technology supporting deaf individuals in a professional banking environment. The image features a virtual assistant represented as a holographic avatar translating sign language (Libras) on a tablet or smartphone screen. In the background, a friendly, accessible bank setting with diverse people interacting. The scene includes vibrant yet professional colors like blue and white, emphasizing trust and modernity. The title 'Inclusive Banking with AI' is integrated subtly in the top right corner in a clean, sans-serif font."|
 | Roteiro do podcast | PROMPT: "Você é um roteirista de podcast. Vamos criar um podcast para apresentar a solução “Projeto: IA Generativa para Inclusão no Atendimento à População Surda”, criada acima. O formato do roteiro deve corresponder às seções do projeto, ou seja: [Introdução] [Contexto e Problematização] [Objetivos da Solução] [Solução Proposta com o Uso de IA] [Conclusão] {REGRAS} - O podcast será apresentado pela apresentadora de nome: Thaisa Guio, funcionária CAIXA da área de TI. Ela é analista e cientista de dados, com experiência no mundo do Python e da Inteligência Artificial. - A apresentação deve ser amigável, explicando a solução com termos claros e simples, porém precisos, passando pelas seções do projeto, conforme explicado acima. – O último trecho da conclusão do podcast deve usar o slogan da CAIXA Econômica Federal, a saber: “Vem pra CAIXA você também! Vem!” {REGRAS NEGATIVAS} - Não ultrapasse 3 minutos de duração." A saída foi aprimorada e usada no ElevenLabs para a conversão text-to-speech.|
 
-- Leonard.AI:
+- Leonardo.AI:
   
 | Ação | Prompts |
 | --- | --- |
