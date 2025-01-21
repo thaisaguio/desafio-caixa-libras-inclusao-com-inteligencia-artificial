@@ -18,9 +18,9 @@ Projeto para o Desafio CAIXA - Criando Impacto Social com IA, do bootcamp DIO "C
 
 <p align="center">
 
-📖 Leia o e-book do projeto: [Clique Aqui](desafio-caixa-libras-inclusao-com-inteligencia-artificial/output/e-book-caixa-libras-inclusao-com-inteligencia-artificial.pdf)
+📖 Leia o e-book do projeto: [Clique Aqui](https://github.com/thaisaguio/desafio-caixa-libras-inclusao-com-inteligencia-artificial/blob/main/output/e-book-caixa-libras-inclusao-com-inteligencia-artificial.pdf)
 
-🎙️ Ouça o Podcast sobre o projeto: [Clique Aqui](https://github.com/thaisaguio/desafio-caixa-libras-inclusao-com-inteligencia-artificial/output/podcast.mp4)
+🎙️ Ouça o Podcast sobre o projeto: [Clique Aqui](https://github.com/thaisaguio/desafio-caixa-libras-inclusao-com-inteligencia-artificial/blob/main/output/podcast-caixa-libras-inclusao-com-inteligencia-artificial.mp4)
      
 Nota:  Limitação no tamanho de envio de arquivo do GitHub forçou menor qualidade do arquivo .mp4 
 </p>
@@ -55,9 +55,9 @@ Nota:  Limitação no tamanho de envio de arquivo do GitHub forçou menor qualid
 
 ## 🚀 Resultados
 
-📖 Leia o e-book do projeto: [Clique Aqui](desafio-caixa-libras-inclusao-com-inteligencia-artificial/output/e-book-caixa-libras-inclusao-com-inteligencia-artificial.pdf)
+📖 Leia o e-book do projeto: [Clique Aqui](https://github.com/thaisaguio/desafio-caixa-libras-inclusao-com-inteligencia-artificial/blob/main/output/e-book-caixa-libras-inclusao-com-inteligencia-artificial.pdf)
 
-🎙️ Ouça o Podcast sobre o projeto: [Clique Aqui](https://github.com/thaisaguio/desafio-caixa-libras-inclusao-com-inteligencia-artificial/output/podcast.mp4)
+🎙️ Ouça o Podcast sobre o projeto: [Clique Aqui](https://github.com/thaisaguio/desafio-caixa-libras-inclusao-com-inteligencia-artificial/blob/main/output/podcast-caixa-libras-inclusao-com-inteligencia-artificial.mp4)
 
 ## 👨‍💻 Autoria
 
