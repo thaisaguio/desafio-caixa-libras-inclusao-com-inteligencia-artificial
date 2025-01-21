@@ -54,7 +54,8 @@ Nota:  Limitação no tamanho de envio de arquivo do GitHub forçou menor qualid
 - ElevenLabs: Conversão text-to-speech do roteiro do podcast para o áudio do podcast (Voz: Matilda | Modelo: Eleven Turbo 2.5 | Stability: 45% |  Similarity: 65%).
 - Capcut: Tratamento do áudio do podcast, efeitos e trilha.  
   
-  
+-------------------------------------------------------
+
 - ChatGPT:
   
 | Ação | Prompts |
